@@ -54,7 +54,7 @@ After installing the project, you can use it by following these steps:
 
 5. To generate reports, select the appropriate option from the main menu. The reports will be saved in text files (`task_overview.txt` and `user_overview.txt`) for easy reading.
 
-![Task Manager in Action](![image](https://github.com/Imti-Al/finalCapstone/assets/127908756/778bcfa5-f2ef-4861-8335-6f137cac8280))
+![Task Manager in Action](![image](https://github.com/Imti-Al/finalCapstone/blob/main/T17%20-%20Capstone%20Project%20-%20Lists%2C%20Functions%2C%20and%20String%20Handling/in_action.png))
 
 ## Credits
 
